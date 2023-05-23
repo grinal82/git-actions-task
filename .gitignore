@@ -1,6 +1,8 @@
 dist
 doc
 
+.vscode
+
 # Logs
 logs
 *.log
